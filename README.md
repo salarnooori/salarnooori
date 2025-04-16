@@ -1,8 +1,3 @@
-<!-- HEADER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26vU0NQ06EZXrbjQ0/giphy.gif" alt="Welcome GIF" width="100%"/>
-</p>
-
 <!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=4DD0E1&width=600&lines=I+am+Salar+Noori;AI+%26+Bioinformatics+Enthusiast;Master%27s+Student+in+Bioinformatics" alt="Typing SVG" />
