@@ -41,34 +41,6 @@ I’m **Salar Noori**, a Master’s student at **Sharif University of Technology
 
 ---
 
-## 🚀 Featured Projects
-
-### Reinforcement Learning for Feature Selection and Control Problems
-Explore RL-based feature selection and control strategies, implementing TD learning and forward/backward feature selection pipelines.  
-🔗 [Repo](https://github.com/salarnooori/Reinforcement-Learning-for-Feature-Selection-and-Control-Problems)
-
-### MRI-Based Classification of 1p/19q Codeletion in LGG
-Classify 1p/19q codeletion status in low-grade glioma patients using MRI scans & genomic features. Full pipeline from preprocessing to deep CNN training and analysis.  
-🔗 [Repo](https://github.com/salarnooori/MRI-Based-Classification-of-1p-19q-Codeletion-in-LGG-Using-Deep-Learning)
-
-### Vision Transformer for Brain Tumor Detection
-Apply ViT models on MRI datasets for brain tumor classification, including extensive visualization and explainability.  
-🔗 [Repo](https://github.com/salarnooori/Vision-Transformer-ViT-for-Brain-Tumor-MRI-Classification-and-Vizualization)
-
-### Lung Segmentation with U-Net
-End-to-end pipeline for lung segmentation on chest X-rays using U-Net. Preprocessing, model training, and postprocessing included.  
-🔗 [Repo](https://github.com/salarnooori/Lung-Segmentation-from-Chest-X-Ray-Images-using-U-Net)
-
-### Sleep Stage Classification with SimCLR and Contrastive Learning
-Implement SimCLR-driven contrastive learning for EEG-based sleep stage classification in competition challenges.  
-🔗 [Repo](https://github.com/salarnooori/Sleep-Stage-Classification-with-AI-using-SimCLR-and-Contrastive-Learning)
-
-### VoxelMorph Unsupervised Learning for Image Registration
-Implement unsupervised deep learning image registration using VoxelMorph, predicting deformation fields for medical imaging alignment.  
-🔗 [Repo](https://github.com/salarnooori/VoxelMorph-Unsupervised-Learning-for-Image-Registration)
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
