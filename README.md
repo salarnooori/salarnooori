@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E34F26&width=600&lines=Hi there+!+I+am+Salar+Noori;نرم+انگاری+و+هوش+مصنوعی;Master%27s+Student+in+Bioinformatics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=4DD0E1&width=600&lines=I+am+Salar+Noori;AI+%26+Bioinformatics+Enthusiast;Master%27s+Student+in+Bioinformatics" alt="Typing SVG" />
 </p>
 
 <!-- BADGES -->
@@ -31,7 +31,7 @@ I’m **Salar Noori**, a Master’s student at **Sharif University of Technology
 ## 🎓 Education
 
 - **M.Sc. in Ai - Bioinformatics**, Sharif University of Technology (2023–Present)
-- **B.Sc. in Computer Engineering - Software Engineering**, Shahrekord University (2018–2022)
+- **B.Sc. in Computer Engineering**, Shahrekord University (2018–2022)
 
 ---
 
