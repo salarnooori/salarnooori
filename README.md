@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E34F26&width=600&lines=سلام+!+I+am+Salar+Noori;نرم+انگاری+و+هوش+مصنوعی;Master%27s+Student+in+Bioinformatics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E34F26&width=600&lines=Hi there+!+I+am+Salar+Noori;نرم+انگاری+و+هوش+مصنوعی;Master%27s+Student+in+Bioinformatics" alt="Typing SVG" />
 </p>
 
 <!-- BADGES -->
