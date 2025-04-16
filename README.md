@@ -1,7 +1,7 @@
 <!-- TYPING EFFECT -->
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=4DD0E1&width=600&lines=I+am+Salar+Noori;AI+%26+Bioinformatics+Enthusiast;Master%27s+Student+in+Bioinformatics" alt="Typing SVG" />
-</p>
+</div>
 
 <!-- BADGES -->
 <p align="center">
